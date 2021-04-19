@@ -1,0 +1,4 @@
+
+4월 19, 2021 23:05:12.527 NEW SESSION
+4월 19, 2021 23:05:12.527 [11916:16944:0419/230512.521:ERROR:device_event_log_impl.cc(214)] [23:05:12.521] USB: usb_device_handle_win.cc:1056 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 19, 2021 23:05:12.530 [11916:16944:0419/230512.523:ERROR:device_event_log_impl.cc(214)] [23:05:12.523] USB: usb_device_handle_win.cc:1056 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
