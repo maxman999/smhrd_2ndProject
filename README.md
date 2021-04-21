@@ -10,6 +10,8 @@
  - 토픽 모델링을 위한 머신러닝 모델 구축은 파이썬의 sckit-learn과 konlfy에서 제공하는 라이브러리를 이용했다. 
 
 #### 4. MachineLearning 모델 설명
+![machinlearning](https://user-images.githubusercontent.com/80523580/115510877-38c5c000-a2bb-11eb-9a9b-4ee10f67388a.jpg)
 
 
 #### 5. 웹 서비스
+![화면설명](https://user-images.githubusercontent.com/80523580/115510888-3b281a00-a2bb-11eb-93c0-62c14b9d80d9.jpg)
