@@ -3,6 +3,7 @@
 #### 1. 서비스 개요
  
 #### 2. 서비스 흐름도
+![image](https://user-images.githubusercontent.com/80523580/115731865-72352300-a3c2-11eb-9626-d3f1c5db1f4c.png)
 
 #### 3. 시스템 구성도
  - 데이터베이스로는 oracle을 이용했다.
